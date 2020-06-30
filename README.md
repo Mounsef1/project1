@@ -1,6 +1,8 @@
 # Project 0
 
-Web Programming with Python and JavaScript
+Web Programming with Python and JavaScript.
+
+
 So this was my first project in html and CSS, we’ve been brought to create a web page that will talk about one of our interest ,
  so for me I choose to talk about my city Marrakech-Morocco, places that you could visit once you are there ,our gastronomy that you will taste ,
  also some different activities that you could do at night, and at the end I created a page that should contain
