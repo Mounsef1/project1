@@ -1,0 +1,26 @@
+.mainpage, .restaurants, .night, .hotel, .places {
+  text-align: center;
+  font-size: 80px;
+  padding: 150px; }
+
+.mainpage {
+  background-color: green; }
+
+.restaurants {
+  background-color: brown; }
+
+.night {
+  background-color: indigo; }
+
+.hotel {
+  background-color: lightBlue; }
+
+.places {
+  background-color: lightCyan; }
+
+div {
+  font-size: 20px; }
+  div p {
+    color: DarkSlateGrey; }
+
+/*# sourceMappingURL=head.css.map */

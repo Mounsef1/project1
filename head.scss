@@ -1,0 +1,36 @@
+$pad : 150px;
+
+%head{
+  text-align:center;
+  font-size: 80px;
+  padding:$pad;
+}
+
+.mainpage{
+  @extend %head;
+  background-color: green;
+}
+.restaurants{
+  @extend %head;
+  background-color: brown;
+}
+.night{
+  @extend %head;
+  background-color: indigo;
+}
+.hotel{
+  @extend %head;
+  background-color: lightBlue;
+}
+.places{
+  @extend %head;
+  background-color: lightCyan;
+}
+
+div {
+  font-size: 20px;
+
+  p {
+    color:DarkSlateGrey;
+  }
+}
